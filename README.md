@@ -1,6 +1,5 @@
 - 👋 Hey, I’m Sandu, and welcome to my GitHub.
-- 👀 I’m interested in Software Engineering, Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning data architectures and strategies.
+- 👀 I’m interested in all things that involves Technology & Engineering.
 - 💞️ I’m looking to collaborate on interesting projects written in Python and Typescript.
 - 📫 Feel free to reach out to me on s@abey.one
 
