@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Sandu, and welcome to my GitHub.
 - 👀 I’m interested in all things that involves Technology & Engineering.
-- 💞️ I’m looking to collaborate on interesting projects written in Python and Typescript.
+- 💞️ I’m looking to collaborate on interesting Python and Node.js projects.
 - 📫 Feel free to reach out to me on s@abey.one
 
 <!---
